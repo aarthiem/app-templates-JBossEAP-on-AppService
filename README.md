@@ -1,13 +1,13 @@
-# JBoss EAP Pet Store Application Deployed to Azure App Service (AAS)
+# JBoss EAP Pet Store Application Deployed to Azure App Service
 ## Description 
-In this sample app template of the Pet Store Microservices application. The Application is built with Maven and deployed to an Azure App Service (AAS) secured by Azure Firewall
+In this sample app template of the Pet Store Microservices application. The Application is built with Maven and deployed to an Azure App Service secured by Azure Firewall
 
 ## Deploy JBoss EAP Application to Azure App Services:
 
 --
 Tech stack:
 
-- Azure Infra (Hub & Spoke Toppology)
+- Azure Infra (Hub & Spoke Topology)
 - Azure Infra (VNet Peering)
 - Azure User Defined Routing (UDR)
 - Azure Application Inisghts
@@ -83,5 +83,5 @@ This creates a local copy of the repository for you to work in.
 - On the upper Right Hand Side, you will see a URL:  https://xxxxxxxxxxxxxxxxxxx.azurewebsites.net (this is just a sample URL)
 - Click it...
 - A new page will open....it may take like 20 to 30 seconds to load (the WAR file is unpacking)
-- Once open, you will see the Pet Store Applicaiton Landing Page....
+- Once open, you will see the Pet Store Application Landing Page....
 
